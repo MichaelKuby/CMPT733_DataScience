@@ -1,0 +1,53 @@
+## How can the data be used?  
+
+This agreement allows faculty to use the data sets to support their research and publications. It allows instructors to use the data in the classroom. Commercial use is not allowed.  
+
+The end user agreement outlines educational bodies may publish the analysis and results conducted using the BC Assessment data provided that:   
+
+  
+
+i)   the results are published for use in academic research, including in peer-reviewed academic publications, or in non-peer reviewed briefs, papers or research projects (the “Published Research”);  
+
+ii)  the Published Research does not include extracts of the Requested Data, except with BCA’s prior written consent;  
+
+iii) BCA is cited as the source of the Requested Data; and  
+
+iv) the analysis and results stated in the Published Research are expressed to be the views of the applicable Authorized User, not of BCA.  
+
+  
+
+## Data storage:  
+
+The data must only be stored on password-protected computers with encrypted drives. If you’re not sure whether your drive is encrypted, encrypt the folder containing the data.  
+
+Don’t put the data on flash drives or send it by email. If you need it on multiple computers, the files must be downloaded separately to each computer. If you need to transfer modified versions of the data, use the secure cloud storage/transfer services provided by the university  
+
+  
+
+## Can the data be modified?  
+
+The agreement does allow for the data to be modified; however, the derivate data still falls under this End User License Agreement (EULA), and the rights and responsibilities still apply. The modified data can only be shared with other parties who have signed the End User License Agreement.   
+
+  
+
+Additionally, the Requested Data may not be used by anyone for any of the purposes prohibited by section 69 of the Assessment Act (BC).  
+
+  
+
+## Securing the data  
+
+The data must only be stored on password-protected computers with encrypted drives. If you’re not sure whether your drive is encrypted, encrypt the folder containing the data.   
+
+Don’t put the data on flash drives or send it by email. If you need to transfer modified versions of the data, use the secure cloud storage/transfer services provided by the university.  
+
+
+For classroom use it’s the instructors’ responsibility to convey these security requirements to their students or to provide an environment that meets them (e.g. university lab).  
+
+Published research using the BCA data:  
+
+All published research must be forwarded to BCA as follows:  
+
+Address: 400 – 3550 Uptown Blvd.  
+Victoria BC, V8Z 0B9  
+Email: propertyinfo@bcassessment.ca  
+Attention: Manager, Property Information  
